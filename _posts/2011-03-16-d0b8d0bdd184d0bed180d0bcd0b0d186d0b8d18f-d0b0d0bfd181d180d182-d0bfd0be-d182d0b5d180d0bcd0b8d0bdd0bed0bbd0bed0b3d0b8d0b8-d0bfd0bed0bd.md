@@ -8,5 +8,8 @@ permalink: /articles/444
 published: true
 post_date: 2011-03-16 14:56:00
 ---
-<a href="http://www.apsrt.ru/docs/2-01-128.doc">Письмо № 2-01/128 от 05 июня 2008 г.</a><br />
-<a href="http://www.apsrt.ru/docs/2-01-12.doc">Письмо № 2-01/12 от 18 января 2010 г.</a>
+[Письмо № 2-01/128 от 05 июня 2008 г.][1]  
+[Письмо № 2-01/12 от 18 января 2010 г.][2]
+
+ [1]: http://www.apsrt.ru/docs/2-01-128.doc
+ [2]: http://www.apsrt.ru/docs/2-01-12.doc

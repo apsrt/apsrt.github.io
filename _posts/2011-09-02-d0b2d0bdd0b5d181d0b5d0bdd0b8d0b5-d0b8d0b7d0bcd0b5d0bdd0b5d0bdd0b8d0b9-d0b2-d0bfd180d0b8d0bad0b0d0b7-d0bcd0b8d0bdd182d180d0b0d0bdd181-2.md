@@ -14,4 +14,6 @@ permalink: /articles/460
 published: true
 post_date: 2011-09-02 15:29:00
 ---
-<a href="http://www.apsrt.ru/docs/prikaz199.doc">Приказ</a>
+[Приказ][1]
+
+ [1]: http://www.apsrt.ru/docs/prikaz199.doc

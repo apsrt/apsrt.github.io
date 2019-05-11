@@ -8,5 +8,8 @@ permalink: /articles/729
 published: true
 post_date: 2012-01-18 15:43:00
 ---
-<a href="http://www.apsrt.ru/docs/2-03-316.doc">Письмо АПСРТ</a><br />
-<a href="http://www.apsrt.ru/docs/ryb.mdi">Письмо Росрыболовства</a>
+[Письмо АПСРТ][1]  
+[Письмо Росрыболовства][2]
+
+ [1]: http://www.apsrt.ru/docs/2-03-316.doc
+ [2]: http://www.apsrt.ru/docs/ryb.mdi

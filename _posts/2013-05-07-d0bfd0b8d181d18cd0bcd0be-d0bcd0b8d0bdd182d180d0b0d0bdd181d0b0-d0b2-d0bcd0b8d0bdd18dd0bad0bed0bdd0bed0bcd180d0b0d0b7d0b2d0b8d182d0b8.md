@@ -8,5 +8,8 @@ permalink: /articles/813
 published: true
 post_date: 2013-05-07 15:41:00
 ---
-<a href="http://www.apsrt.ru/docs/14tt.pdf"><span style="text-decoration:underline;"> письмо Минтранса России  </span></a><br />
- <a href="http://www.apsrt.ru/docs/15tt.doc"><span style="text-decoration:underline;"> письмо АПСРТ </span></a>
+[<span style="text-decoration:underline;"> письмо Минтранса России </span>][1]  
+[<span style="text-decoration:underline;"> письмо АПСРТ </span>][2]
+
+ [1]: http://www.apsrt.ru/docs/14tt.pdf
+ [2]: http://www.apsrt.ru/docs/15tt.doc

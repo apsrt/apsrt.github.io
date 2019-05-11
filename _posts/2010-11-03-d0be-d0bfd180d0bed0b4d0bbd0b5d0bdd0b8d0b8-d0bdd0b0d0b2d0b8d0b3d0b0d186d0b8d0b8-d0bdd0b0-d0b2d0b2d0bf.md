@@ -8,5 +8,8 @@ permalink: /articles/631
 published: true
 post_date: 2010-11-03 18:24:00
 ---
-<a href="http://www.apsrt.ru/docs/p-1.pdf">№ОШ-29/10783</a><br />
-<a href="http://www.apsrt.ru/docs/p-2.doc">№ОШ-27/10625</a>
+[№ОШ-29/10783][1]  
+[№ОШ-27/10625][2]
+
+ [1]: http://www.apsrt.ru/docs/p-1.pdf
+ [2]: http://www.apsrt.ru/docs/p-2.doc

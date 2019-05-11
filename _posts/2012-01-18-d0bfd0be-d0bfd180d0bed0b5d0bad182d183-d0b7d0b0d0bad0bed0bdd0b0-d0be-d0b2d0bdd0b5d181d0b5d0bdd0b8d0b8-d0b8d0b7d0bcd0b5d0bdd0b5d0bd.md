@@ -8,7 +8,12 @@ permalink: /articles/725
 published: true
 post_date: 2012-01-18 15:30:00
 ---
-<a href="http://www.apsrt.ru/docs/izm.jpg">Письмо С.Н. Шишкарева</a><br />
-<a href="http://www.apsrt.ru/docs/2-13-316.doc">Письмо АПСРТ</a><br />
-<a href="http://www.apsrt.ru/docs/tabl.doc">Таблица поправок</a><br />
-<a href="http://www.apsrt.ru/docs/exp.doc">Экспертное заключение АПСРТ</a><br />
+[Письмо С.Н. Шишкарева][1]  
+[Письмо АПСРТ][2]  
+[Таблица поправок][3]  
+[Экспертное заключение АПСРТ][4]
+
+ [1]: http://www.apsrt.ru/docs/izm.jpg
+ [2]: http://www.apsrt.ru/docs/2-13-316.doc
+ [3]: http://www.apsrt.ru/docs/tabl.doc
+ [4]: http://www.apsrt.ru/docs/exp.doc

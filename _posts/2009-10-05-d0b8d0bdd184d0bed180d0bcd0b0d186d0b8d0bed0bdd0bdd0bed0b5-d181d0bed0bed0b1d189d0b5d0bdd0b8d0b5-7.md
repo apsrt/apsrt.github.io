@@ -8,4 +8,6 @@ permalink: /articles/545
 published: true
 post_date: 2009-10-05 03:21:00
 ---
-<a href="http://www.apsrt.ru/docs/2-01-219.doc"><span style="text-decoration:underline;"> Информационное письмо </span></a>
+[<span style="text-decoration:underline;"> Информационное письмо </span>][1]
+
+ [1]: http://www.apsrt.ru/docs/2-01-219.doc

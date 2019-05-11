@@ -13,4 +13,6 @@ permalink: /articles/541
 published: true
 post_date: 2009-10-05 03:03:00
 ---
-<a href="http://www.apsrt.ru/docs/koncepcia.doc"><span style="text-decoration:underline;"> Концепция создания объединений баз снабжения организаций речного транспорта </span></a>
+[<span style="text-decoration:underline;"> Концепция создания объединений баз снабжения организаций речного транспорта </span>][1]
+
+ [1]: http://www.apsrt.ru/docs/koncepcia.doc

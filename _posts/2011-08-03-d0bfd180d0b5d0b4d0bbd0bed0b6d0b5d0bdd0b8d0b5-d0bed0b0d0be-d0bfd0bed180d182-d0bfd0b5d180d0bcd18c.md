@@ -8,4 +8,6 @@ permalink: /articles/689
 published: true
 post_date: 2011-08-03 15:32:00
 ---
-<a href="http://www.apsrt.ru/docs/SKMBT_C45111080213470.pdf">Приложение</a>
+[Приложение][1]
+
+ [1]: http://www.apsrt.ru/docs/SKMBT_C45111080213470.pdf
