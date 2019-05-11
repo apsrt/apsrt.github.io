@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+title: АПСРТ
+email: apsrt@superuser.su
+description: >-
+   Ассоциация портов и судовладельцев речного транспорта
+baseurl: ""
+url: "http://apsrt.ru"
+twitter_username: apsrt
+github_username:  apsrt
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
