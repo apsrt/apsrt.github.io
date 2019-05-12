@@ -10,6 +10,4 @@ permalink: /articles/825
 published: true
 post_date: 2013-07-31 16:25:00
 ---
-[<span style="text-decoration:underline;"> Федеральный закон Российской Федерации от 23 июля 2013 г. N 225-ФЗ "О внесении изменений в отдельные законодательные акты Российской Федерации" </span>][1]
-
- [1]: http://www.apsrt.ru/docs/ty23.doc
+<a href="http://www.apsrt.ru/docs/ty23.doc"><span style="text-decoration:underline;"> Федеральный закон Российской Федерации от 23 июля 2013 г. N 225-ФЗ &quot;О внесении изменений в отдельные законодательные акты Российской Федерации&quot; </span></a>

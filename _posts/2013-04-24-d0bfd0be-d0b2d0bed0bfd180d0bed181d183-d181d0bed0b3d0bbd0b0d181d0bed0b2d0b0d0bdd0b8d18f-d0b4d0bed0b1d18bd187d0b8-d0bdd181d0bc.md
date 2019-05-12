@@ -8,9 +8,6 @@ permalink: /articles/811
 published: true
 post_date: 2013-04-24 16:39:00
 ---
-[<span style="text-decoration:underline;"> письмо порта Коломна </span>][1]  
-  
-[<span style="text-decoration:underline;"> письмо АПСРТ 2-01/69 </span>][2]
-
- [1]: http://www.apsrt.ru/docs/17ss.pdf
- [2]: http://www.apsrt.ru/docs/18ss.pdf
+<a href="http://www.apsrt.ru/docs/17ss.pdf"><span style="text-decoration:underline;"> письмо порта Коломна </span></a><br />
+<br />
+ <a href="http://www.apsrt.ru/docs/18ss.pdf"><span style="text-decoration:underline;"> письмо АПСРТ 2-01/69 </span></a>

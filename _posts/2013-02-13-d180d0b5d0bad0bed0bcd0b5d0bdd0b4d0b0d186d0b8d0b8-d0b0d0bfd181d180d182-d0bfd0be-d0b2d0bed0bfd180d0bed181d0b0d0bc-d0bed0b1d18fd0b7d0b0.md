@@ -8,8 +8,5 @@ permalink: /articles/799
 published: true
 post_date: 2013-02-13 16:11:00
 ---
-[<span style="text-decoration:underline;">Правила</span>][1]  
-[<span style="text-decoration:underline;">Письмо за №2-01/16</span>][2]
-
- [1]: http://www.apsrt.ru/docs/ps12.doc
- [2]: http://www.apsrt.ru/docs/ps11.doc
+<a href="http://www.apsrt.ru/docs/ps12.doc"><span style="text-decoration:underline;">Правила</span></a><br />
+ <a href="http://www.apsrt.ru/docs/ps11.doc"><span style="text-decoration:underline;">Письмо за №2-01/16</span></a>

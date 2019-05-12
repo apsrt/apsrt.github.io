@@ -8,6 +8,4 @@ permalink: /articles/454
 published: true
 post_date: 2011-04-26 14:05:00
 ---
-[Рекомендации АПСРТ][1]
-
- [1]: http://www.apsrt.ru/docs/recomend.doc
+<a href="http://www.apsrt.ru/docs/recomend.doc">Рекомендации АПСРТ</a>

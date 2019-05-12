@@ -1,0 +1,38 @@
+<style>
+    legend {
+        display: block;
+        padding-left: 2px;
+        padding-right: 2px;
+        border: none;
+    }
+    fieldset{
+        border: 1px solid #dedede;
+    }
+    form {
+        margin-bottom: 40px;
+    }
+</style>
+<form>
+<fieldset>
+    <legend>Страница защищена паролем:</legend>
+    <label for="pwd">Пароль</label>
+    <input id="pwd" type="password" value="">
+    <button id="btn">Открыть</button>
+</fieldset>
+</form>
+<script>
+    "use strict";
+
+    function clicked(e) {
+        e.preventDefault();
+        let pwdNode = document.getElementById("pwd").value;
+        let encodedData = 'YXBzcnQtc2VjcmV0';
+        let htmlData = window.btoa(pwdNode);
+        if(htmlData === encodedData) {
+            document.getElementById('main').classList.remove('hidden');
+        }
+    }
+
+    document.getElementById('btn').addEventListener('click', clicked);
+
+</script>

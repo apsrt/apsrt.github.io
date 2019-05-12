@@ -11,8 +11,5 @@ permalink: /articles/699
 published: true
 post_date: 2011-08-29 14:06:00
 ---
-[Проект приказа][1]  
-[Приложение к приказу][2]
-
- [1]: http://www.apsrt.ru/docs/proekt25.doc
- [2]: http://www.apsrt.ru/docs/pril25.doc
+<a href="http://www.apsrt.ru/docs/proekt25.doc">Проект приказа</a><br />
+<a href="http://www.apsrt.ru/docs/pril25.doc">Приложение к приказу</a>

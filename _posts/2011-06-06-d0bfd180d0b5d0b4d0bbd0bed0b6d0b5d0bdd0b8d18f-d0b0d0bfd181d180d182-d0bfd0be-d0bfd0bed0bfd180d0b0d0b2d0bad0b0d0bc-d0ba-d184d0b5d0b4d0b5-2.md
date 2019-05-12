@@ -8,6 +8,4 @@ permalink: /articles/683
 published: true
 post_date: 2011-06-06 13:49:00
 ---
-[Предлагаемые поправки][1]
-
- [1]: http://www.apsrt.ru/docs/2-04-127.doc
+<a href="http://www.apsrt.ru/docs/2-04-127.doc">Предлагаемые поправки</a>

@@ -8,10 +8,6 @@ permalink: /articles/679
 published: true
 post_date: 2011-05-24 17:07:00
 ---
-[Письмо Голомолзину А.Н.][1]  
-[Предлагаемые поправки][2]  
-[Пояснительная записка][3]
-
- [1]: http://www.apsrt.ru/docs/2-03-104.doc
- [2]: http://www.apsrt.ru/docs/popravki-147.doc
- [3]: http://www.apsrt.ru/docs/zapiska-147.doc
+<a href="http://www.apsrt.ru/docs/2-03-104.doc">Письмо Голомолзину А.Н.</a><br />
+<a href="http://www.apsrt.ru/docs/popravki-147.doc">Предлагаемые поправки</a><br />
+<a href="http://www.apsrt.ru/docs/zapiska-147.doc">Пояснительная записка</a>

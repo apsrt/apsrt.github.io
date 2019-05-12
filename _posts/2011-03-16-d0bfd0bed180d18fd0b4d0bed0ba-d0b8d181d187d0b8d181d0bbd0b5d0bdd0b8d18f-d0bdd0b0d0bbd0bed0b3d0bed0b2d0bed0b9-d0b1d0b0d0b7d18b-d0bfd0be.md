@@ -8,15 +8,9 @@ permalink: /articles/442
 published: true
 post_date: 2011-03-16 12:59:00
 ---
-[Информационное письмо "ТрансАудита" (стр. 1)][1]  
-[Стр. 2][2]  
-[Стр. 3][3]  
-[Стр. 4][4]  
-  
-[Консультация для Тверского порта][5]
-
- [1]: http://www.apsrt.ru/docs/IMG.jpg
- [2]: http://www.apsrt.ru/docs/IMG_0001.jpg
- [3]: http://www.apsrt.ru/docs/IMG_0002.jpg
- [4]: http://www.apsrt.ru/docs/IMG_0003.jpg
- [5]: http://www.apsrt.ru/docs/tverport.doc
+<a href="http://www.apsrt.ru/docs/IMG.jpg">Информационное письмо &quot;ТрансАудита&quot; (стр. 1)</a><br />
+<a href="http://www.apsrt.ru/docs/IMG_0001.jpg">Стр. 2</a><br />
+<a href="http://www.apsrt.ru/docs/IMG_0002.jpg">Стр. 3</a><br />
+<a href="http://www.apsrt.ru/docs/IMG_0003.jpg">Стр. 4</a><br />
+<br />
+<a href="http://www.apsrt.ru/docs/tverport.doc">Консультация для Тверского порта</a>

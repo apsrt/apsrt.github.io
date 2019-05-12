@@ -8,6 +8,4 @@ permalink: /articles/1004
 published: true
 post_date: 2015-02-11 12:26:53
 ---
-**[письмо АПСРТ за №2-01-29][1]**
-
- [1]: http://www.apsrt.ru/wp-content/uploads/2015/02/письмо-АПСРТ-за-№2-01-29-.rtf
+<strong><a href="http://www.apsrt.ru/wp-content/uploads/2015/02/письмо-АПСРТ-за-№2-01-29-.rtf">письмо АПСРТ за №2-01-29</a></strong>

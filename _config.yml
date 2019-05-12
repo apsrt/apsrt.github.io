@@ -10,6 +10,11 @@ github_username:  apsrt
 # Build settings
 markdown: kramdown
 
+date_format: "%d.%m.%Y"
+
+include:
+  - _pages
+
 exclude:
   - Gemfile
   - Gemfile.lock

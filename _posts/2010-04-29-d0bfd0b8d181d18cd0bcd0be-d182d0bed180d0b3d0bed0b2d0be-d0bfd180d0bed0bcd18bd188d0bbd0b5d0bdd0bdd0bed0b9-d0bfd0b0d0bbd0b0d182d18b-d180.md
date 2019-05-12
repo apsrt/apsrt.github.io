@@ -11,6 +11,4 @@ permalink: /articles/585
 published: true
 post_date: 2010-04-29 15:25:00
 ---
-[ Письмо ТПП РФ <span style="text-decoration:underline;"></span>][1]
-
- [1]: http://www.apsrt.ru/docs/apsrt_tpp.jpg
+<a href="http://www.apsrt.ru/docs/apsrt_tpp.jpg"> Письмо ТПП РФ <span style="text-decoration:underline;"></span></a>

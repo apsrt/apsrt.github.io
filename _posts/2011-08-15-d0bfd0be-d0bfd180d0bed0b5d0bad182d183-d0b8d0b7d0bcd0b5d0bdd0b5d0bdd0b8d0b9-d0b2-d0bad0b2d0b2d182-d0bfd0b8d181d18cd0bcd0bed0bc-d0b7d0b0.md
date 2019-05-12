@@ -8,6 +8,4 @@ permalink: /articles/693
 published: true
 post_date: 2011-08-15 16:05:00
 ---
-[Письмо АПСРТ][1]
-
- [1]: http://www.apsrt.ru/docs/2-02-185.doc
+<a href="http://www.apsrt.ru/docs/2-02-185.doc">Письмо АПСРТ</a>

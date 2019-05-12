@@ -10,8 +10,5 @@ permalink: /articles/661
 published: true
 post_date: 2011-04-01 13:51:00
 ---
-[Сопроводительное письмо][1]  
-[Предложения АПСРТ][2]
-
- [1]: http://www.apsrt.ru/docs/2-04-31.doc
- [2]: http://www.apsrt.ru/docs/codex.doc
+<a href="http://www.apsrt.ru/docs/2-04-31.doc">Сопроводительное письмо</a><br />
+<a href="http://www.apsrt.ru/docs/codex.doc">Предложения АПСРТ</a>
