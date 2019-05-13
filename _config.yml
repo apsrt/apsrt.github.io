@@ -13,6 +13,7 @@ markdown: kramdown
 date_format: "%d.%m.%Y"
 
 include:
+  - wp/_posts
   - _pages
 
 exclude:
